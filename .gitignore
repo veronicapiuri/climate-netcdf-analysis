@@ -1,0 +1,24 @@
+# File temporanei Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoint dei notebook
+.ipynb_checkpoints/
+
+# Ambiente virtuale
+venv/
+
+# File di configurazione locali
+.env
+
+# Output o file di dati locali
+*.log
+*.csv
+*.h5
+*.nc
+
+# File di backup di editor (VSCode, etc.)
+*.swp
+*.bak
+.DS_Store
